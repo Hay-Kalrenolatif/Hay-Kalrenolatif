@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there
 
+My Name is Haykal Reno. L
+
+- 🌱 I’m currently learning Flutter, with a wealth of foundational knowledge in software engineering—particularly in the fields of Data, Design and FrontEnd.
+- ⚡ Fun fact: I enjoy orchestrating AI to expand my own knowledge; I like asking questions—no matter how small—and I’ve learned all of this in just five months.
 <!--
 **Hay-Kalrenolatif/Hay-Kalrenolatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
